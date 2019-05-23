@@ -13,28 +13,6 @@
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
-
-
-
 <br><br><br><br>
 ## `String getSmallMultiplicationTable()`
 * **Description**
